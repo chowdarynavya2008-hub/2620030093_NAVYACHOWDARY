@@ -3,7 +3,7 @@ Project Abstract: Flight Status Tracker
 Team Members:
 Navya Chowdary B — 2620030093
 
-Shanmuka Priya — 2620030348
+Shanmuka Priya — 2620030248
 
 Summary
 The Flight Status Tracker is a responsive web application designed to help travellers quickly look up flight details and monitor journey updates through a clean, accessible interface. By combining intuitive search forms with clear visual status indicators, the application eliminates confusion around schedule changes and presents essential flight information in an easy-to-scan format.
